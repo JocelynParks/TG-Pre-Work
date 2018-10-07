@@ -1,0 +1,5 @@
+p {
+  font-family: Arial;
+}
+h1 {color: Maroon;}
+/* Use the element's tag name found in the html file. Close elements with {} and place selectors inside the curly brackets */
