@@ -1,0 +1,9 @@
+p {
+  font-family: Arial;
+}
+h1 {color: Maroon;}
+
+.title{
+  color:teal;
+}
+/* Selecting an element by its class name instead of its tag name. In this case, we wanted to change the title color, so we identify the selector as ".title" followed by the color.*/
