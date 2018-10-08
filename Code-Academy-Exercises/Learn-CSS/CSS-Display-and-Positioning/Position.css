@@ -82,6 +82,7 @@ footer {
   text-align: center;
   width: 100%;
   position: relative;
+  top: 200px;
 
 }
 
@@ -104,3 +105,4 @@ footer {
 /*Position: Relative."Relative" sets the element relative to its default static position on the web page. Offset properties include:top, bottom, left, and right (pixels) ("position: relative"; and to offset:"top:40px;"")
 /*Position: Absolute.Will scroll with the rest of the document. "When an element's position is set to absolute all other elements on the page will ignore the element and act like it is not present on the page.""  "position: absolute;" "width:100%;"
 /*Position: Fixed. In this exercise I will fix an element to a position on the page. Make adjustments to the rest of the page now that the "fixed" element covers up text.*/
+/*Position: This final document includes all three excercises:Relative, Absolute, and Fixed.
