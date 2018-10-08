@@ -1,0 +1,23 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+#article-title{
+  font-family: cursive;
+  text-transform: capitalize;
+}
+.publish-time {
+  color: gray;
+}
+/*CSS classes are used many times while IDs are meant to style one element. Since only the "publish-time" was wanting to be changed, I used "id" in Html and then in CSS (.pubish-time) inputted the new font color.*/
