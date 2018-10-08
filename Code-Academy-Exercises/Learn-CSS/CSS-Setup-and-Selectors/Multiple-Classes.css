@@ -1,0 +1,17 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+/* To use CSS to select a class attribute by name in HTML, add the style (.uppercase) follow that with {text-transform: uppercase;}. Be sure to remember to switch to index.html and include "uppercase" in the "class" element.*/
