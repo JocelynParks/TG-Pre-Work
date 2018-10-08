@@ -5,7 +5,7 @@
   width:400px;
   grid-template: repeat(3, 1fr) / 3fr 50%
     1fr;
-  grid-row-gap: 20px;
+  grid-gap: 20px 5px;
 }
 
 .box {
@@ -14,4 +14,4 @@
   border-radius: 5px;
   border: 2px dodgerblue solid;
 }
-/*Grid row gaps and grid column gaps insert space between the items in the grid (but not the beginning or the end of the grid). Do not use / to seperate values.*/
+/*Grid row gaps and grid column gaps insert space between the items in the grid (but not the beginning or the end of the grid). Use grid-gap for both but do not use / to seperate values.*/
