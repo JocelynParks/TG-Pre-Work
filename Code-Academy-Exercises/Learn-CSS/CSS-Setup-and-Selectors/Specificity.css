@@ -1,0 +1,27 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time {
+  color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+/* Most specific to least: IDs, classes, tags (Ids are unlikely to be override). Best to style with a tag selector, class selector, or ID selector. In this exercise, I set more general rules using class selectors. Make changes in HTML*/
