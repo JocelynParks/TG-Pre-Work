@@ -1,0 +1,31 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time {
+  color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+
+h2.destination{
+  font-family: cursive;
+}
+/*Defining an HTML element to have two or more CSS selectors at the same time by combining them (ex.h1.blank{})
