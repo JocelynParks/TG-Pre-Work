@@ -47,6 +47,7 @@ strong {
 .header {
   font-family: "Arial", sans-serif;
   font-size: 14px;
+  font-weight: 900;
   line-height: 1.25;
   background-color: #fff;
   position: fixed;
@@ -158,4 +159,4 @@ a.home {
   }
 }
 
-/*Using "font-weight" to bold headings to signify importance.*/
+/*Using a scale from 100 to 900 (multiples of 100) with the font-weight property.*/
