@@ -1,0 +1,20 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+#article-title{
+  font-family: cursive;
+  text-transform: capitalize;
+}
+/* In order to ID an element, the element needs an "id" attribute. The CSS selector begins with "#" (#article-title) then follows with the id name (article-title). The go into index.html, and add the "id" along with the existing "class"*/
