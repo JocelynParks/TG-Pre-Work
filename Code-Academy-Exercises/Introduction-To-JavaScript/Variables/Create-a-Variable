@@ -1,0 +1,6 @@
+var favoriteFood = 'pizza';
+var numOfSlices = 8;
+console.log(favoriteFood)
+console.log(numOfSlices)
+
+//Var or variable and myName or the variable's name. = is the assignment operator and 'Arya' is the value assigned. Used var and logged in console
