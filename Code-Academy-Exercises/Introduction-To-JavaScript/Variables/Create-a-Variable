@@ -11,4 +11,10 @@ changeMe = false;
 
 console.log(changeMe);
 
-//Let keywords signal that the varable can be reassigned a different value
+//"Let" keywords signal that the varable can be reassigned a different value
+
+const entree='Enchiladas'
+console.log(entree); //Output: Enchiladas
+entree="Tacos"
+
+//"Const" keyword also allows you to store any value, but may not be reassigned as you will recieve a "Type Error"
