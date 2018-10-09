@@ -1,0 +1,5 @@
+console.log(24+3.5)
+console.log(2018-1969)
+console.log(65/240)
+console.log(0.2708*100)
+//Use an arithmetic operator that allows for mathematical computations including: +, -, *, /, and %)
