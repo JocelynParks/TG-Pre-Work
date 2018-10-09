@@ -1,0 +1,1 @@
+/*Javascript is a programming language which resides at the core of web development. */
