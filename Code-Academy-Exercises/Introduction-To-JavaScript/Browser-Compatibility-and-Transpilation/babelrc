@@ -1,0 +1,2 @@
+/*Now I will need to specify what version of the source code to use. Go to the root directory and run x to create this file.
+//Here are exact instuctions:In the root directory, use touch to create a new .babelrc file.Open the .babelrc file and add an object that specifies the preset to "env". Run the code once you've added the object.*/
