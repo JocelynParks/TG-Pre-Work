@@ -1,0 +1,1 @@
+//The final step before tranpilling our code is to specify a script that initiates the ES6+ to ES5 transpilation. There are several arguments for the following method calls: babel, src, -d, and lib. In this exercise, I ran the babel src -d lib method to transpile our ES6+ code (once again in the pane to the right)
