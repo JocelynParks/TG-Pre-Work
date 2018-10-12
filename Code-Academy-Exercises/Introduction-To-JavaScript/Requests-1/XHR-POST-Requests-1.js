@@ -1,0 +1,1 @@
+//At this point, I have signed up for Rebrandly and signed up for an API Key. An API key is necessary in making a GET request. The major difference between a GET request and POST request is that a POST request requires additional information to be sent through the request.
